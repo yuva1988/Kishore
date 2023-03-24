@@ -10,4 +10,15 @@ Subramanayam
 Chittoor
 Sharepoint 
 devops
+<<<<<<< HEAD
 Gajapathijdfskdfjgdsfkjdsfgkdjfjsdgkfjsd
+=======
+Gajapathi
+jkhjcsdkjc
+ahjgjad
+gdjadj
+fjkfjdhgfhgdskjf65876329876492
+4987598203785
+9847598325
+yuvakishore is working on Sharepoint
+>>>>>>> 495ab56064b81f385e97e60f16ef6eceb663c958
